@@ -1,2 +1,2 @@
-#priority scheduling
+# priority scheduling
 Priority scheduling is one of the most common scheduling algorithms in batch systems.Python program which accepts the user input on the process id, execution time,priority and arrival time.Each process is assigned a priority, the lowest number in priority as high priority and highest number in priority as low priority in this program we are taking input from a csv file and calculate the waiting time and turnaround time and also average waiting time and average turnaround time then draw the gantt chart by using the input data.
